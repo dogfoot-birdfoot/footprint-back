@@ -21,3 +21,5 @@ logging:
   level:
     'org.hibernate.SQL': debug
     'org.hibernate.type': trace
+
+cloudfront-domain-name: https://dfbf-footprint.s3.ap-northeast-2.amazonaws.com
